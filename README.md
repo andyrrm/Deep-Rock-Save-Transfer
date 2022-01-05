@@ -1,4 +1,4 @@
-Thanks for checking out DRST!
+## Thanks for checking out DRST!
 
 ![UI_main](https://user-images.githubusercontent.com/53543020/148155830-99e4c027-dfcf-443b-ba5b-5a099940b706.png)
 
