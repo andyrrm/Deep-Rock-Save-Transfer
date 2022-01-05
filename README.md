@@ -27,7 +27,7 @@ After selecting the proper directories, DRST will prompt you to select a backup 
 
 ## Transfering Saves
 
-From here, it's pretty self explanatory. Choose the direction you're transferring and select the corresponding save files from each folder. 
+From here, it's a breezy three click process. Choose the direction you're transferring and select the corresponding save files from each folder. 
 
 ### Steam save files will look like *76561198207771097_Player.sav*
 ![UI_steamsave_arrow](https://user-images.githubusercontent.com/53543020/148181689-a0c0f672-6ad1-4822-9159-c60534b7d592.png)
