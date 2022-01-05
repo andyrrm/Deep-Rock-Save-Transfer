@@ -35,4 +35,4 @@ From here, it's pretty self explanatory. Choose the direction you're transferrin
 ### Xbox save files will look like *27CBC55625D54C7B8D7D16A4D95F52A3*
 ![UI_xboxsave_arrow](https://user-images.githubusercontent.com/53543020/148181691-688d0b9f-6152-44d3-8f76-f4bbaaa6ca9e.png)
 
-After selecting both files, they will be copied to a new sub-folder in your designated backups folder. Once the transfer is complete, you'll get a confirmation message, and that's it!
+After selecting both files, they will be copied to a new sub-folder in your designated backups folder. Once the transfer is complete, you'll get a confirmation message. That's it! Happy mining!
