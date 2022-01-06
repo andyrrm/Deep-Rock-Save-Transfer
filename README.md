@@ -4,10 +4,6 @@
 
 This is a simple program that makes transferring saves between the Xbox PC and Steam versions much simpler. There are a few things you need to do upon downloading:
 
-## Install Python 3
-
-You might have it already installed. Open up your Command Prompt and input `python --version`. If it's an older version or you don't have it installed, it's easy to install the latest 3.x release from [Python.org](https://www.python.org/downloads/).
-
 ## First Time Setup
 When you first download this tool, you need to select this option before the others so the program knows the directory of your save files. The paths are saved to a sidecar text document, so you shouldn't need to do this again unless you change the install location.
 
