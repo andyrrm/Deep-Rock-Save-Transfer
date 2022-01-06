@@ -2,7 +2,7 @@
 
 ![UI_main](https://user-images.githubusercontent.com/53543020/148155830-99e4c027-dfcf-443b-ba5b-5a099940b706.png)
 
-This is a simple program that makes transferring saves between the Xbox PC and Steam versions much simpler. There are a few things you need to do upon downloading:
+This is a simple program that makes transferring saves between the Xbox PC and Steam versions much simpler. To download the latest .exe, check out the [**Releases**](https://github.com/andyrrm/Deep-Rock-Save-Transfer/releases/) tab. There are a few things you need to do upon downloading:
 
 ## First Time Setup
 When you first download this tool, you need to select this option before the others so the program knows the directory of your save files. The paths are saved to a sidecar text document, so you shouldn't need to do this again unless you change the install location.
